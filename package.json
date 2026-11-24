@@ -1,0 +1,14 @@
+{
+  "name": "nasir-5-agent-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "NASIR 5 AGENT AI - Solana Paper Trading System",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
